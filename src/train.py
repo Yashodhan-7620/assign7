@@ -10,7 +10,6 @@ Refactored from the original notebook. Key fixes vs. the notebook:
 import pickle
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import LinearRegression
